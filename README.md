@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey, I'm <a href="https://github.com/om-bhargav">Om Bhargav</a></h1>
-<h3 align="center">💻 Full-Stack Developer | AI & Automation Enthusiast</h3>
+<h3 align="center">💻 Full-Stack Developer | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=550&lines=Building+AI-powered+apps+with+Next.js;Exploring+Gemini+and+LLMs;Turning+Ideas+into+Code;Always+Learning%2C+Always+Shipping!">
