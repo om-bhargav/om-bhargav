@@ -3,16 +3,16 @@
 <h3 align="center">💻 Full-Stack Developer | AI & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=550&lines=Building+AI-powered+apps+with+Next.js;Loving+TypeScript%2C+React%2C+and+Automation;Turning+Ideas+into+Clean+Code;Always+Learning%2C+Always+Shipping!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=550&lines=Building+AI-powered+apps+with+Next.js;Exploring+Gemini+and+LLMs;Turning+Ideas+into+Code;Always+Learning%2C+Always+Shipping!">
 </p>
 
 ---
 
 ### 🧠 About Me
-🚀 Full-stack developer passionate about automation, AI integration, and scalable design.  
-🎯 Currently exploring **Next.js**, **Gemini AI**, and **cloud deployment pipelines**.  
+🚀 Full-stack developer passionate about automation, AI, and elegant design.  
+🎯 Currently exploring **Next.js**, **Gemini AI**, and **cloud backends**.  
 💬 Ask me about `Next.js`, `React`, `Node.js`, `C++`, and `AI APIs`.  
-⚡ Fun fact: *I debug faster with lo-fi beats 🎧.*
+⚡ Fun fact: *My favorite debugger is console.log() and caffeine ☕.*
 
 ---
 
@@ -54,8 +54,8 @@
 ### 🧮 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/om_hacker/">
-    <img src="https://leetcard.jacoblin.cool/om_hacker?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/omhacking699/">
+    <img src="https://leetcard.jacoblin.cool/omhacking699?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
 
@@ -63,6 +63,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
+  <a href="https://leetcode.com/omhacking699/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.geeksforgeeks.org/user/om_hacker/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="https://github.com/om-bhargav"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:ombhargav.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -71,7 +72,7 @@
 ---
 
 ### 🧩 Quote of the Day
-> “The best error message is the one that never shows up.” – Thomas Fuchs  
+> “The best way to predict the future is to invent it.” – Alan Kay  
 
 ---
 
