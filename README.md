@@ -57,13 +57,26 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=om-bhargav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=om-bhargav&theme=tokyonight&hide_border=true&background=0d1117" />
+  <a href="https://github.com/om-bhargav">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=om-bhargav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F3ACE&icon_color=7F3ACE" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/om-bhargav">
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=om-bhargav&theme=tokyonight&hide_border=true&background=0d1117&ring=7F3ACE&fire=7F3ACE&currStreakLabel=7F3ACE" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-bhargav&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+  <a href="https://github.com/om-bhargav">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=om-bhargav&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=7F3ACE&point=FFFFFF" alt="GitHub Activity Graph" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/om-bhargav">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=om-bhargav&theme=tokyonight" alt="Profile Summary" />
+  </a>
+</p>
+
 
 ---
 
