@@ -8,12 +8,15 @@
 
 ---
 
-### 🧠 About Me
-🚀 Full-stack developer passionate about automation, AI, and elegant design.  
-🎯 Currently exploring **Next.js**, **Gemini AI**, and **cloud backends**.  
-💬 Ask me about `Next.js`, `React`, `Node.js`, `C++`, and `AI APIs`.  
-⚡ Fun fact: *My favorite debugger is console.log() and caffeine ☕.*
+## 👨‍💻 About Me
 
+Hey! I'm **Om Bhargav**, a passionate **Full-Stack Developer** who loves turning ideas into efficient, elegant, and scalable web applications.  
+I specialize in crafting seamless user experiences on the frontend and building powerful APIs and databases on the backend.
+
+💡 **Tech Interests:** Modern Web Frameworks, API Design, Database Architecture, and Cloud Integrations  
+🚀 **Currently Working With:** Next.js, FastAPI, React, and Django  
+🎯 **Goal:** Building intelligent full-stack apps that solve real-world problems  
+📫 **Reach Me:** [LinkedIn](https://in.linkedin.com/in/om-bhargav-6a4495297) | [LeetCode](https://leetcode.com/omhacking699/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/om_hacker/)
 ---
 
 ### 🧠 Tech Stack
