@@ -38,6 +38,7 @@ I enjoy working across the stack — from designing beautiful frontends to devel
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFB400?style=for-the-badge&logo=python&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[![ShadCN UI](https://img.shields.io/badge/ShadCN-UI-7F3ACE?style=for-the-badge)](https://ui.shadcn.com/)
 
 #### 🧰 Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
