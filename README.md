@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm <a href="https://github.com/om-bhargav">Om Bhargav</a> (aka <span style="color:#8a2be2;">OM HACKER</span>)</h1>
+<h1 align="center">👋 Hey, I'm <a href="https://github.com/om-bhargav">Om Bhargav</a></h1>
 <h3 align="center">💻 Full-Stack Developer | AI & Automation Enthusiast</h3>
 
 <p align="center">
