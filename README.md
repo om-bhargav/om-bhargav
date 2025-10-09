@@ -1,22 +1,22 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm <a href="https://github.com/om-bhargav">Om Bhargav</a></h1>
-<h3 align="center">💻 Full-Stack Developer | AI & Machine Learning Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/om-bhargav">Om Bhargav</a></h1>
+<h3 align="center">💻 Full-Stack Developer Web Application Developer | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=550&lines=Building+AI-powered+apps+with+Next.js;Exploring+Gemini+and+LLMs;Turning+Ideas+into+Code;Always+Learning%2C+Always+Shipping!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3ACE&center=true&vCenter=true&width=600&lines=Building+AI-powered+Web+Apps;Crafting+Full-Stack+Solutions;Working+with+Python,+JavaScript,+React,+Next.js,+Django,+FastAPI;Automating+Workflows+and+Learning+Continuously">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-Hey! I'm **Om Bhargav**, a passionate **Full-Stack Developer** who loves turning ideas into efficient, elegant, and scalable web applications.  
-I specialize in crafting seamless user experiences on the frontend and building powerful APIs and databases on the backend.
+Hi, I'm **Om Bhargav** — a passionate **Full-Stack Developer** who loves building clean, scalable, and impactful web applications.  
+I enjoy working across the stack — from designing beautiful frontends to developing powerful backends and cloud integrations.
 
-💡 **Tech Interests:** Modern Web Frameworks, API Design, Database Architecture, and Cloud Integrations  
-🚀 **Currently Working With:** Next.js, FastAPI, React, and Django  
-🎯 **Goal:** Building intelligent full-stack apps that solve real-world problems  
-📫 **Reach Me:** [LinkedIn](https://in.linkedin.com/in/om-bhargav-6a4495297) | [LeetCode](https://leetcode.com/omhacking699/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/om_hacker/)
+💡 **Tech Interests:** API Design, Modern Web Frameworks, and Automation  
+🚀 **Currently Working With:** FastAPI, Next.js, React, and Django  
+🎯 **Goal:** To create AI-powered, full-stack apps that solve real-world problems  
+
 ---
 
 ### 🧠 Tech Stack
@@ -53,7 +53,7 @@ I specialize in crafting seamless user experiences on the frontend and building 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Terminal](https://img.shields.io/badge/Powershell-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 ---
 
@@ -89,19 +89,35 @@ I specialize in crafting seamless user experiences on the frontend and building 
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://leetcode.com/omhacking699/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.geeksforgeeks.org/user/om_hacker/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://github.com/om-bhargav"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:ombhargav.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
 ### 🧩 Quote of the Day
-> “The best way to predict the future is to invent it.” – Alan Kay  
+> “The best way to predict the future is to invent it.” – Alan Kay
+> 
+
+### Thanks for visiting my GitHub profile! 🚀  
+
+I’m always excited to **collaborate, learn, and build amazing projects**.  
+If you liked my work or want to connect, feel free to reach out!  
+
+<div align="center" style="margin-top: 10px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <a href="https://linkedin.com/in/om-bhargav-6a4495297" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:ombhargav788@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://leetcode.com/omhacking699/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/om_hacker/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
+  </a>
+
+</div>
+
 
 ---
-
 <p align="center">⭐ If you like my work, consider giving a star to my repositories! ⭐</p>
