@@ -88,7 +88,7 @@ I enjoy working across the stack — from designing beautiful frontends to devel
 
 <br>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/anshkanda?theme=dark&font=Baloo%202&ext=contest&border=0&radius=20)](https://leetcode.com/omhacking699)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/omhacking699?theme=dark&font=Baloo%202&ext=contest&border=0&radius=20)](https://leetcode.com/omhacking699)
 
 <br>
 
