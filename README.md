@@ -82,11 +82,21 @@ I enjoy working across the stack — from designing beautiful frontends to devel
 
 ### 🧮 LeetCode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/omhacking699/">
-    <img src="https://leetcard.jacoblin.cool/omhacking699?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
-  </a>
-</p>
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> LEETCODE CONQUEST
+
+<br>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/anshkanda?theme=dark&font=Baloo%202&ext=contest&border=0&radius=20)](https://leetcode.com/omhacking699)
+
+<br>
+
+![](https://img.shields.io/badge/Problems_Solved-600%2B-00D9FF?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000)
+![](https://img.shields.io/badge/Topics_Mastered-Arrays_•_Strings_•_LinkedList_•_Trees-00FF88?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/DSA_Level-Intermediate-FFA116?style=for-the-badge&labelColor=000000)
+
+</div>
 
 ---
 
