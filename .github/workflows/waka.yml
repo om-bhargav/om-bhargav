@@ -2,14 +2,15 @@ name: WakaTime Stats Update
 
 on:
   schedule:
-    # Runs at 12:00 AM UTC every day
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run it manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update WakaTime Stats in README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # This forces GitHub to allow the bot to save the README
     steps:
       - uses: actions/checkout@v3
       - uses: athul/waka-readme@master
@@ -19,5 +20,3 @@ jobs:
           BLOCKS: ->
           TIME_RANGE: last_7_days
           SHOW_TIME: true
-          SHOW_MASKED_TIME: false
-          SHOW_PROJECTS: false # Set to true if you want to show which repos you spent time on

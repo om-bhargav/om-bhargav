@@ -75,7 +75,7 @@ Here are a few highlights of what I've been building recently:
 
 ### GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=om-bhargav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F3ACE&icon_color=7F3ACE" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=om-bhargav&theme=tokyonight&hide_border=true&background=0d1117&ring=7F3ACE&fire=7F3ACE&currStreakNum=ffffff" alt="GitHub Streak" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=om-bhargav&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
