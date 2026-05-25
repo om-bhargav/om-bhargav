@@ -88,13 +88,13 @@ Here are a few highlights of what I've been building recently:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2026 - To: 23 May 2026
+From: 17 May 2026 - To: 24 May 2026
 
-TypeScript   28 hrs 21 mins        >>>>>>>>>>>>>>>>>>>>>>>--   90.51 %
-Other        1 hr 23 mins          >------------------------   04.45 %
-CSS          25 mins               -------------------------   01.37 %
-Prisma       15 mins               -------------------------   00.82 %
-JSON         14 mins               -------------------------   00.78 %
+TypeScript   34 hrs 33 mins        >>>>>>>>>>>>>>>>>>>>>>---   87.58 %
+Other        2 hrs 10 mins         >------------------------   05.53 %
+Prisma       1 hr 3 mins           >------------------------   02.70 %
+Bash         31 mins               -------------------------   01.33 %
+CSS          26 mins               -------------------------   01.11 %
 ```
 
 <!--END_SECTION:waka-->
