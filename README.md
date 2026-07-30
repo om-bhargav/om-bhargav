@@ -88,13 +88,13 @@ Here are a few highlights of what I've been building recently:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 July 2026 - To: 28 July 2026
+From: 22 July 2026 - To: 29 July 2026
 
-Python       4 hrs 40 mins         >>>>>>>>>>>>>>>>>--------   69.87 %
-YAML         1 hr 31 mins          >>>>>>-------------------   22.87 %
-C++          14 mins               >------------------------   03.68 %
-C            13 mins               >------------------------   03.46 %
-Git Config   0 secs                -------------------------   00.08 %
+Python       7 hrs 28 mins         >>>>>>>>>>>>>>>>>>>------   77.29 %
+YAML         1 hr 41 mins          >>>>---------------------   17.43 %
+C++          14 mins               >------------------------   02.55 %
+C            13 mins               >------------------------   02.39 %
+Bash         1 min                 -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
